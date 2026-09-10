@@ -1,0 +1,2 @@
+create new project 
+initialize a git repository
